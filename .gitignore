@@ -1,0 +1,4 @@
+#this document tells git to ignore any file whose name ends in .dat and everything 
+#in the results directory
+*.dat
+results/
